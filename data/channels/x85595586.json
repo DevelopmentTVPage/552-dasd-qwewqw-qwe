@@ -1,0 +1,25 @@
+{
+    "title": "Seasonal",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1488327706",
+    "date_modified": "1522083591",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "85595586",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Seasonal",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "781529872-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "781529872-021456709.jpg",
+        "canvasUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1456\/707\/781529872-021456709.jpg"
+    },
+    "transcripts": null
+}

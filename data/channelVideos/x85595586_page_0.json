@@ -1,0 +1,1505 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "156473701",
+            "title": "GreenThumb Smart Water Timer V3",
+            "date_created": "1521851098",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "251",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "251",
+                "prettyDuration": "00:04:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/156473701\/34c44\/thumb-bb7a632ce1476aa29858814d26c24d2b-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/156473701\/34c44\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/156473701\/34c44\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/156473701\/cc\/vtt\/en_1522083567.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473701\/34c44\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473701\/34c44\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473701\/34c44\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473701\/34c44\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473701\/34c44\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/greenthumb-smart-water-timer-v3\/85595586-156473701"
+        },
+        {
+            "id": "156473704",
+            "title": "K5 Full Control Home",
+            "date_created": "1521851123",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "103",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "103",
+                "prettyDuration": "00:01:43",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/156473704\/2b758\/thumb-96dc40ac1a2f134ba26e668cb0b38a9c-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/156473704\/2b758\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/156473704\/2b758\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/156473704\/cc\/vtt\/en_1522083451.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473704\/2b758\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473704\/2b758\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473704\/2b758\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473704\/2b758\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473704\/2b758\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/k5-full-control-home\/85595586-156473704"
+        },
+        {
+            "id": "156473703",
+            "title": "Melnor  AquaTimer\u2122 Water Timers",
+            "date_created": "1521851114",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "103",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "103",
+                "prettyDuration": "00:01:43",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/156473703\/ba84f\/thumb-6a4af21dd3f3020fbf58122c7ae78f9b-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/156473703\/ba84f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/156473703\/ba84f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/156473703\/cc\/vtt\/en_1522083277.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473703\/ba84f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473703\/ba84f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473703\/ba84f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473703\/ba84f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/156473703\/ba84f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/melnor-aquatimer-water-timers\/85595586-156473703"
+        },
+        {
+            "id": "153849955",
+            "title": "Fall Lake Retreat- Long Island Eclectic Set",
+            "date_created": "1520547446",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "35",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "35",
+                "prettyDuration": "00:00:35",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/153849955\/ed975\/thumb-7fd655d89008a95ccb082bdbd848752a-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153849955\/ed975\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153849955\/ed975\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153849955\/cc\/vtt\/en_1520983212.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849955\/ed975\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849955\/ed975\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849955\/ed975\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849955\/ed975\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849955\/ed975\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/fall-lake-retreat-long-island-eclectic-set-mp4\/85595586-153849955"
+        },
+        {
+            "id": "153849953",
+            "title": "POLYWOOD\u00ae - Adirondack Comparison",
+            "date_created": "1520547431",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "124",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "124",
+                "prettyDuration": "00:02:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/153849953\/76a3a\/thumb-e725c241fc070d9404de074eba29cee5-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153849953\/76a3a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153849953\/76a3a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153849953\/cc\/vtt\/en_1520983086.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849953\/76a3a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849953\/76a3a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849953\/76a3a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849953\/76a3a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849953\/76a3a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/polywood-adirondack-comparison-mp4\/85595586-153849953"
+        },
+        {
+            "id": "153849956",
+            "title": "POLYWOOD\u00ae - Rethink Outdoor",
+            "date_created": "1520547450",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/153849956\/ccd75\/thumb-34ccbe39da85790552fa594039fc0354-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153849956\/ccd75\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153849956\/ccd75\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153849956\/cc\/vtt\/en_1520982982.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849956\/ccd75\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849956\/ccd75\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849956\/ccd75\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849956\/ccd75\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849956\/ccd75\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/polywood-rethink-outdoor-mp4\/85595586-153849956"
+        },
+        {
+            "id": "153849954",
+            "title": "POLYWOOD\u00ae Tests - Kids Birthday Party",
+            "date_created": "1520547441",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "103",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "103",
+                "prettyDuration": "00:01:43",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/153849954\/64ddc\/thumb-89094881e7c19b09c06036c6ac7b0a47-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153849954\/64ddc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153849954\/64ddc\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849954\/64ddc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849954\/64ddc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849954\/64ddc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849954\/64ddc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153849954\/64ddc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153849954\/cc\/vtt\/en_1520982839.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/polywood-tests-kids-birthday-party-mp4\/85595586-153849954"
+        },
+        {
+            "id": "153785190",
+            "title": "POLYWOOD\u00ae GN23 - Vineyard Deep Seating Chair Assembly Video",
+            "date_created": "1520385079",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "134",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "134",
+                "prettyDuration": "00:02:14",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/153785190\/bd503\/thumb-ec85479a86bf8d15b56c5eed5e9596e2-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153785190\/bd503\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153785190\/bd503\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153785190\/cc\/vtt\/en_1520982618.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785190\/bd503\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785190\/bd503\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785190\/bd503\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785190\/bd503\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785190\/bd503\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/polywood-gn23-vineyard-deep-seating-chair-assembly-video-mp4\/85595586-153785190"
+        },
+        {
+            "id": "153785191",
+            "title": "POLYWOOD\u00ae GN46 - Vineyard Deep Seating Settee Assembly Video",
+            "date_created": "1520385088",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "164",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "164",
+                "prettyDuration": "00:02:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/153785191\/1ff80\/thumb-30db734509fc5696ed7c7ae5c5cb6374-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153785191\/1ff80\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153785191\/1ff80\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153785191\/cc\/vtt\/en_1520982508.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785191\/1ff80\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785191\/1ff80\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785191\/1ff80\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785191\/1ff80\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785191\/1ff80\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/polywood-gn46-vineyard-deep-seating-settee-assembly-video-mp4\/85595586-153785191"
+        },
+        {
+            "id": "153785193",
+            "title": "POLYWOOD\u00ae TD102 - La Casa Caf\u00e9 Bar Side Chair",
+            "date_created": "1520385105",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "114",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "114",
+                "prettyDuration": "00:01:54",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/153785193\/112ef\/thumb-b679e91bfd0be8aa71570c2c67df675a-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153785193\/112ef\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153785193\/112ef\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153785193\/cc\/vtt\/en_1520982376.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785193\/112ef\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785193\/112ef\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785193\/112ef\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785193\/112ef\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785193\/112ef\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/polywood-td102-la-casa-caf\u00e9-bar-side-chair-mp4\/85595586-153785193"
+        },
+        {
+            "id": "153785188",
+            "title": "Palm Coast Eclectic Set",
+            "date_created": "1520385069",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/153785188\/2a5b5\/thumb-ac41cfcf51752ff9c3531052a5aeffea-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153785188\/2a5b5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153785188\/2a5b5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153785188\/cc\/vtt\/en_1520537963.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785188\/2a5b5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785188\/2a5b5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785188\/2a5b5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785188\/2a5b5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785188\/2a5b5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/palm-coast-eclectic-set-mp4\/85595586-153785188"
+        },
+        {
+            "id": "153785192",
+            "title": "POLYWOOD\u00ae GN69 - Vineyard Deep Seating Sofa Assembly Video",
+            "date_created": "1520385098",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "151",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "151",
+                "prettyDuration": "00:02:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/153785192\/f8327\/thumb-32d1c24591ec883f4f0330748c3490e8-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153785192\/f8327\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153785192\/f8327\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153785192\/cc\/vtt\/en_1520537851.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785192\/f8327\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785192\/f8327\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785192\/f8327\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785192\/f8327\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785192\/f8327\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/polywood-gn69-vineyard-deep-seating-sofa-assembly-video-mp4\/85595586-153785192"
+        },
+        {
+            "id": "153785189",
+            "title": "Peaceful Moment by the Lake- Chippendale Glider",
+            "date_created": "1520385072",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "28",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "28",
+                "prettyDuration": "00:00:28",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/480\/269\/307640461-046480315.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/153785189\/2a910\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/153785189\/2a910\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/153785189\/cc\/vtt\/en_1520457872.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785189\/2a910\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785189\/2a910\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785189\/2a910\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785189\/2a910\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/153785189\/2a910\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/peaceful-moment-by-the-lake-chippendale-glider-mp4\/85595586-153785189"
+        },
+        {
+            "id": "149295951",
+            "title": "Charlene Mullen for Royal Doulton",
+            "date_created": "1518658072",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "211",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "211",
+                "prettyDuration": "00:03:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/thumb-bd29bf83ca942ae77328c7c5e55ffb76-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295951\/cc\/vtt\/en_1519256204.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/charlene-mullen-for-royal-doulton-mp4\/85595586-149295951"
+        },
+        {
+            "id": "149295953",
+            "title": "Dancing Stoneware",
+            "date_created": "1518658083",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "25",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "25",
+                "prettyDuration": "00:00:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/thumb-921552cabe0fb2ce18e97ba9908cf3c5-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295953\/cc\/vtt\/en_1519256202.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/dancing-stoneware-mp4\/85595586-149295953"
+        },
+        {
+            "id": "149295961",
+            "title": "De'Longhi MultiGrill - The All-Day Grill",
+            "date_created": "1518658196",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "107",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "107",
+                "prettyDuration": "00:01:47",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/thumb-b438bdf366335cc7314df1129dd7ee4e-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295961\/cc\/vtt\/en_1519256199.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/de-longhi-multigrill-the-all-day-grill-mp4\/85595586-149295961"
+        },
+        {
+            "id": "149295962",
+            "title": "De'Longhi MultiOven - Professional Performance Right on your Countertop",
+            "date_created": "1518658204",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "96",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "96",
+                "prettyDuration": "00:01:36",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/thumb-d5f79ef77a4c575511ba54813d2d2eb0-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295962\/cc\/vtt\/en_1519256195.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/de-longhi-multioven-professional-performance-right-on-your-countertop-mp4\/85595586-149295962"
+        },
+        {
+            "id": "149295956",
+            "title": "Dome Tent and Tunnel Combo - Pacific Play Tents",
+            "date_created": "1518658106",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "57",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "57",
+                "prettyDuration": "00:00:57",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/478\/269\/391799651-046478315.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295956\/cc\/vtt\/en_1519256190.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/dome-tent-and-tunnel-combo-pacific-play-tents-mp4\/85595586-149295956"
+        },
+        {
+            "id": "149295950",
+            "title": "Donna Hay for Royal Doulton",
+            "date_created": "1518658048",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "166",
+                    "width": 1280,
+                    "height": 714
+                },
+                "mediaDuration": "166",
+                "prettyDuration": "00:02:46",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/thumb-d5ed53855e9e21fbe3accc79cda19d85-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 714
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 714
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 476
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 356
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 178
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295950\/cc\/vtt\/en_1519256170.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/donna-hay-for-royal-doulton-mp4\/85595586-149295950"
+        },
+        {
+            "id": "149295948",
+            "title": "Gibson Elite Casa Estebana 16-piece Dinnerware Set, Formal or Everyday Dishes - Gibson Overseas Inc.",
+            "date_created": "1518658023",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "38",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "38",
+                "prettyDuration": "00:00:38",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/214275629-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295948\/cc\/vtt\/en_1519255228.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/gibson-elite-casa-estebana-16-piece-dinnerware-set-formal-or-everyday-dishes-gibson-overseas-inc-mp4\/85595586-149295948"
+        }
+    ]
+}
